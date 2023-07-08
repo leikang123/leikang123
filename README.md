@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1align=“center">嗨👋，</h1>
-<img align=“right” alt=“codings” width=“400” src=“![image](https://github.com/leikang123/leikang123/assets/42248685/a58a1b1e-a9a3-426e-988c-08fab6baa76a)">
+<img align=“right” alt=“codings” width=“400” src=“https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47npmq0mlfes8x0rgm3cganjhz2wi9ne6uqxvwhevo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <palign="left"> <img src=" https://komarev.com/ghpvc/?username=leikang123&label=Profile%20views&color=0e75b6&style=flat" alt="leikang123" /> </p>
 
