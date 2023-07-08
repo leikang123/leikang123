@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1align=“center">嗨👋，</h1>
 
-
+![image](https://github.com/leikang123/leikang123/assets/42248685/3cdab0a5-c00c-46ea-bcdf-147b23d1fcb1)
 
 
 
