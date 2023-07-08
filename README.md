@@ -1,6 +1,4 @@
 ### Hi there 👋
-<img align="right" alt="coding" length="1200" width="400" src"![image](https://github.com/leikang123/leikang123/assets/42248685/96ba453f-0b3c-4c0a-8410-a23a20b5910e)
-">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leikang123&label=Profile%20views&color=0e75b6&style=flat" alt="leikang123" /> </p>
 
